@@ -1,0 +1,65 @@
+Algoritma gunluk hayatta kullandigimiz herhangi birseyi anlatmak ve basamaklariyla tanimlamak olarak kullanilabilir. Algoritmamizi yazarken once "BASLA" komutu kullanilir ve sonra veriler basamaklariyle beraber girilir.
+veri girimi bittikten sonra "BİTİR" komutu girilir ve bitirilir. 
+
+Algoritmanin temel unsurlari sunlardir:
+Girdi: Algoritmanın çalışması için gerekli olan veriler.
+İşlem: Girdilerin üzerinde gerçekleştirilen adımlar; bu adımlar matematiksel işlemler, koşullu ifadeler veya döngüler içerebilir.
+Çıktı: İşlemler sonucunda elde edilen sonuç.
+Sonuç: Algoritmanın sonunda elde edilen hedef ya da çözüm
+Bunlarla birkac algoritma yapazak olursak:
+
+algoritma adi="CİLEK DOGRAMA"
+Başla
+Malzemeleri Hazırla
+Çilekleri al
+Kesme tahtasını yerleştir
+Keskin bir bıçak hazırla
+Çilekleri Yıka
+Çilekleri akan su altında nazikçe durula
+Yıkanmış çilekleri bir süzgece al ve suyunu süz
+Sapları Ayır
+Her çileği eline al
+Bıçağın ucu ile sap kısmını keserek ayır
+Kesilen sapları at
+Çilekleri Doğra
+Her çileği yatay olarak ikiye kes
+(Alternatif: İstenirse daha küçük dilimler için her yarıyı tekrar kes)
+Doğranmış Çilekleri Kontrol Et
+Doğranmış dilimlerin boyutlarını kontrol et
+Eğer dilimler çok büyükse, tekrar kes
+Doğranmış Çilekleri Servis Et
+Doğranmış çilekleri bir servis kabına yerleştir
+İsteğe bağlı olarak üzerine şeker, yoğurt veya krema ekle
+Bitir
+
+algoritma adi=" su icme"
+Başla
+Su Kabını Hazırla
+Su dolu bir bardak veya şişe al
+Su Miktarını Kontrol Et
+Eğer su miktarı yeterli ise, devam et
+Eğer su miktarı yetersiz ise, daha fazla su doldur
+ Su Kaynağına Git
+Su Doldur
+ Geri Dön
+Su İçmek İçin Hazırlan
+Bardağı veya şişeyi eline al
+Otur veya ayakta durarak rahat bir pozisyon al
+Su İçme Pozisyonunu Ayarla
+Bardağı dik tut
+Şişe ise ağzına yakın bir açıyla tut
+Yudum Al
+Yavaşça suyu ağzına götür
+Küçük bir yudum al
+Yudumu Yut
+Su yudumunu yut
+Gerekirse Tekrar Et
+Eğer su içme isteği devam ediyorsa, adım 6’ya geri dön
+Eğer su içme isteği kalmadıysa, devam et
+Su Kabını Kapat
+Eğer bardak kullanıyorsan, suyun kalanı kapalı bir yerde bırak
+Eğer şişe kullanıyorsan, kapağını kapat
+Su İçmeyi Bitir
+Su içme işlemini sonlandır
+Bitir
+

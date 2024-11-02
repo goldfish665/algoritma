@@ -21,7 +21,7 @@ degisken isimleri birden fazla kelime iceriyorsa;
 arada bosluk kullanilmaz.
 bugun hava="bulutlu" =yanlis
 bunun yerine; 
-alt tire "_" 
+alt tire "_" kullanilabilir.
 yada
 birinci kelime kucuk harfle, ikinci ve daha sonrakiler buyuk harfle yazilabilir.
 bugun_hava="bulutlu" => dogru
@@ -50,8 +50,11 @@ t=7
 print="t"
 t=66
 dersek;
-t=7 olarak cikti alinir
+t=7 olarak cikti alinir cunku biz "print" komutunu verdigimizde t ye verilen en son deger 7'dir.
 
 birkac degisken ornegi
 yhslahdfkyswkfhbwkef=23 => degisken isimleri mantikli bir isim olmak zorunda degildir.
+en_sevdigim_hayvan="balik"
+enSevdigimRenk="mavi"
+
 

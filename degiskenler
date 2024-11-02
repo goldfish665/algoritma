@@ -1,0 +1,32 @@
+bu dosyada degiskenlerle ilgili bilgi verecegiz
+Değişkenlerin Temel Özellikleri
+İsim: Değişkenin tanımlayıcı adıdır. Genellikle anlamlı bir isimle tanımlanır.
+Değer: Değişkenin sakladığı verilerdir. Program çalışırken bu değer değiştirilebilir.
+Tür: Değişkenin sakladığı veri türünü belirtir (örneğin, tamsayı, ondalıklı sayı, metin).
+
+*degiskenleri isimlendirmek*
+degiskenler,icerisinde turkce harf olmayacak sekilde isimlendirilmelidir.İsimleri tirnak (") isareti icinde olmalidir. (sayilar normal de yazilabilir.)
+yağmurlu=34 (yanlis)
+yagmurlu=34 (dogru)
+ayni isimle birden fazla degisken isimlendirilirken sayi ASLA basa gelmemelidir. Yoksa hata verir.
+1isim="hau" => yanlis. hata verir
+2isim="azra" => yanlis. hata verir
+
+bunun yerine;
+isim1="hau" => dogru
+isim2="azra" => dogru
+
+baska bir kural:
+degisken isimleri birden fazla kelime iceriyorsa;
+arada bosluk kullanilmaz.
+bugun hava="bulutlu" =yanlis
+bunun yerine; 
+alt tire "_" 
+yada
+birinci kelime kucuk harfle, ikinci ve daha sonrakiler buyuk harfle yazilabilir.
+bugun_hava="bulutlu" => dogru
+bugunHava="bulutlu" => dogru
+
+birkac degisken ornegi
+yhslahdfkyswkfhbwkef=23 => degisken isimleri mantikli bir isim olmak zorunda degildir.
+

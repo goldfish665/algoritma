@@ -27,6 +27,19 @@ birinci kelime kucuk harfle, ikinci ve daha sonrakiler buyuk harfle yazilabilir.
 bugun_hava="bulutlu" => dogru
 bugunHava="bulutlu" => dogru
 
+kaliplasmis kodlama terimleri, degisken ismi olarak kullanlimaz.
+if=4 => yanlis
+onun yerine bu kullanilabilir.
+if1=4 => dogrudur.
+
+degiskenlerde kucuk-buyuk harf duyarliligi mevcuttur.
+r=4
+R=4
+ayni ama tam olarak ayni degil.
+
+
+
+
 birkac degisken ornegi
 yhslahdfkyswkfhbwkef=23 => degisken isimleri mantikli bir isim olmak zorunda degildir.
 

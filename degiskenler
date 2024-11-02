@@ -37,8 +37,20 @@ r=4
 R=4
 ayni ama tam olarak ayni degil.
 
-
-
+degiskene birden fazla deger verilebilir.Ama son verilen deger degiskenin guncel degeri olur
+ornek:
+g=3
+g=5
+g=19
+print="g" dersek;
+g=19 olarak cikti alinir.
+ya da
+t=5
+t=7
+print="t"
+t=66
+dersek;
+t=7 olarak cikti alinir
 
 birkac degisken ornegi
 yhslahdfkyswkfhbwkef=23 => degisken isimleri mantikli bir isim olmak zorunda degildir.
